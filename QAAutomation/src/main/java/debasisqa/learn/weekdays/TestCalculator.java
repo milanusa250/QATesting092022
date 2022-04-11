@@ -52,7 +52,7 @@ public class TestCalculator {
         driver.close();
     }
     @Test
-    public void test4() throws InterruptedException {
+    public void searchUsingButtons() throws InterruptedException {
         driver.findElement(By.id("twotabsearchtextbox")).sendKeys("java book");
         Thread.sleep(3000);
         driver.findElement(By.id("nav-search-submit-button")).click();
