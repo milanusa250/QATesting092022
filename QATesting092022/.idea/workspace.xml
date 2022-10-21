@@ -5,70 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a506eca4-cc54-42db-8122-2dc0c4f89af8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../QAAutomation/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QAAutomation/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QAAutomation/src/test/java/debasis/learn/weekdays/YoutubeSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QAAutomation/src/test/java/debasis/learn/weekdays/YoutubeSearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QAAutomation/target/test-classes/debasis/learn/weekdays/YoutubeSearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QAAutomation/target/test-classes/debasis/learn/weekdays/YoutubeSearchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/ContinueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfElseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfElseIfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/NestedIfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/SwitchDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/assignment/TempConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/classobjectconstructor/House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/classobjectconstructor/TestHouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/classobjectmethod/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/classobjectmethod/World.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/conditions/IfStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/datastructure/collections/arraylist/UseArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/datastructure/collections/hashset/UseHashSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/datastructure/collections/iterator/UseIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/datastructure/collections/linkedlist/UseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/datastructure/map/UseHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/datatype/nonprimitive/UseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/datatype/nonprimitive/UseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/datatype/nonprimitive/Wrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/datatype/primitive/Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/enumswitch/Day$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/enumswitch/Day.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/enumswitch/FindTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/enumswitch/Week.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/exceptions/compiletimeexception/ReadFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/exceptions/runtimeexception/Math.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/extra/swap/Swapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/extra/userinput/UserInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/getstarted/HelloJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/keywords/breakandcontinuekws/BreakContinueKws.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/keywords/modifiers/access/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/keywords/modifiers/nonaccess/abstractkw/AbstractKw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/keywords/modifiers/nonaccess/finalkw/FinalKw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/keywords/modifiers/nonaccess/statickw/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/keywords/modifiers/nonaccess/statickw/TestHuman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/loops/DoWhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/loops/ForEachLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/loops/ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/loops/WhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/nestedclass/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/nestedclass/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/nestedclass/TestNested.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/abstraction/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/abstraction/Honda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/abstraction/ModernCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/abstraction/Motor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/abstraction/TestCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/abstraction/Toyota.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/encapsulation/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/encapsulation/TestMovie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/inheritance/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/inheritance/Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/inheritance/GrandFather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/inheritance/Mother.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/inheritance/Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/inheritance/TestInheritance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/polymorphism/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/oops/polymorphism/ModernCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/operators/Operators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/singleton/TestSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rtscorp/trainer/Taining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rtscorp/trainer/Training.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/rtscorp/trainer/Taining.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/rtscorp/trainer/Trainee.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,14 +61,7 @@
       <recent name="C:\Users\dchatterjee\IdeaProjects\QATesting092022\src\main\java\org\rtscorp\oops\abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Human">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Animal" />
-      <module name="QATesting092022" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UseArray">
     <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.rtscorp.trainer.GFG" />
       <module name="QATesting092022" />
@@ -152,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classobjectconstructor.TestHouse" />
+    <configuration name="IfElseIfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditions.IfElseIfDemo" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classobjectconstructor.*" />
+          <option name="PATTERN" value="conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Training$JavaProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rtscorp.trainer.Training$JavaProg" />
-      <module name="QATesting092022" />
+    <configuration name="UseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.nonprimitive.UseArray" />
+      <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rtscorp.trainer.*" />
+          <option name="PATTERN" value="datatype.nonprimitive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Training" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rtscorp.trainer.Training" />
-      <module name="QATesting092022" />
+    <configuration name="UseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.nonprimitive.UseString" />
+      <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rtscorp.trainer.*" />
+          <option name="PATTERN" value="datatype.nonprimitive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseArray" />
+        <item itemvalue="Application.UseString" />
+        <item itemvalue="Application.IfElseIfDemo" />
         <item itemvalue="Application.Human" />
         <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.Training" />
-        <item itemvalue="Application.Training$JavaProg" />
-        <item itemvalue="Application.TestHouse" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +152,10 @@
       <workItem from="1664454348129" duration="2358000" />
       <workItem from="1665600349770" duration="3945000" />
       <workItem from="1665620195277" duration="7095000" />
-      <workItem from="1665790889680" duration="8093000" />
+      <workItem from="1665790889680" duration="9397000" />
+      <workItem from="1666040258489" duration="790000" />
+      <workItem from="1666044348530" duration="3122000" />
+      <workItem from="1666222071758" duration="8952000" />
     </task>
     <servers />
   </component>
