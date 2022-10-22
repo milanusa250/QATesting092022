@@ -8,14 +8,14 @@ public class BreakContinueKws {
             if (i == 5) {
                 break;
             }
-            System.out.println(i);
+            System.out.println(i);//0-4,
         }
         //continue keyword: break the loop when condition is satisfied then keep going
         for (int i = 0; i < 10; i++) {
             if (i == 5) {
                 continue;
             }
-            System.out.println(i);
+            System.out.println(i);//0-4, 6-9
         }
     }
 }

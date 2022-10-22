@@ -8,5 +8,7 @@ public class DoWhileLoop {
             System.out.println(i);
             i++;//incrementation
         }while (i>5);//condition
+       /* i++;
+        System.out.println(i);*/
     }
 }
