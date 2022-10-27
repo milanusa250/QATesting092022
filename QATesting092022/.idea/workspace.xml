@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a506eca4-cc54-42db-8122-2dc0c4f89af8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfElseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfElseDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfElseIfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfElseIfDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/IfStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/conditions/NestedIfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/NestedIfDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/conditions/SwitchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasics/src/conditions/SwitchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/datatype/enumswitch/FindTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasics/src/datatype/enumswitch/FindTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasics/src/loops/Pyramid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +56,7 @@
       <recent name="C:\Users\dchatterjee\IdeaProjects\QATesting092022\src\main\java\org\rtscorp\oops\abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindTask">
+  <component name="RunManager" selected="Application.Pyramid">
     <configuration name="ContinueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditions.ContinueDemo" />
       <module name="JavaBasics" />
@@ -89,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditions.IfStatement" />
+    <configuration name="NestedIfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditions.NestedIfDemo" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
@@ -102,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditions.NestedIfDemo" />
+    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.Pyramid" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditions.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pyramid" />
         <item itemvalue="Application.FindTask" />
         <item itemvalue="Application.ContinueDemo" />
         <item itemvalue="Application.SwitchDemo" />
         <item itemvalue="Application.NestedIfDemo" />
-        <item itemvalue="Application.IfStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +153,7 @@
       <workItem from="1666222071758" duration="8952000" />
       <workItem from="1666395392002" duration="9561000" />
       <workItem from="1666828270447" duration="9193000" />
+      <workItem from="1666877750569" duration="5942000" />
     </task>
     <servers />
   </component>
