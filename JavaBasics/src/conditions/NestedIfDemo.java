@@ -3,7 +3,7 @@ package conditions;
 class NestedIfDemo {
     public static void main(String args[])
     {
-        int i = 10;
+        int i = 15;
 
         if (i == 10 || i<15) {
             // First if statement
@@ -21,3 +21,5 @@ class NestedIfDemo {
         }
     }
 }
+
+// || = or, && = and logical operator

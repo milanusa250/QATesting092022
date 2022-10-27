@@ -2,8 +2,8 @@ package conditions;
 
 public class IfStatement {
     public static void main(String[] args) {
-        int a = 6;
-        int b = 3;
+        int a = 16;
+        int b = 12;
 
         //if statement
         if(a>b){
@@ -18,7 +18,7 @@ public class IfStatement {
         }
 
         //if else if ... else
-        int number = 0;
+        int number = -3;
 
         if (number == 0) {
             System.out.println("this number is equal to 0");

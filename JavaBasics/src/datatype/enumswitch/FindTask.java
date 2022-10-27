@@ -5,6 +5,6 @@ public class FindTask {
 
         Day day = new Day();
 
-        day.whichDay(Week.TUE);
+        day.whichDay(Week.FRI);
     }
 }

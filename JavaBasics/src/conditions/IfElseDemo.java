@@ -8,6 +8,9 @@ class IfElseDemo {
 
         if (i < 15)
             System.out.println("i is smaller than 15");
+        System.out.println("second line under if");
+        if(i==10)
+            System.out.println("i is 10");
         else
             System.out.println("i is greater than 15");
     }

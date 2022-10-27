@@ -3,7 +3,7 @@ package conditions;
 class IfElseIfDemo {
     public static void main(String args[])
     {
-        int i = 20;
+        int i = 5;
 
         Integer abc = new Integer(20);
         float ft = 12.02F;
