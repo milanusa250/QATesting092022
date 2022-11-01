@@ -7,7 +7,7 @@ public class UserInput {
 
         Scanner userInput = new Scanner(System.in);
 
-        System.out.println("enter your name: ");
+        System.out.println("enter your name ");
 
         String name = userInput.nextLine();
 
